@@ -32,7 +32,7 @@ const app = {
         {
             name: "Phía Sau Em",
             singer: "Phạm Thanh Triều (Mikey)",
-            path: "Assets/ListSong/Phía Sau Em.mp3",
+            path: "./Assets/ListSong/Phía Sau Em.mp3",
             image: "./Assets/image/VL1.jpg",
             isFavorite: false
         },
@@ -40,63 +40,63 @@ const app = {
             name: "Em Phải Quên Anh",
             singer: "Phạm Thanh Triều (Mikey)",
             path: "./Assets/ListSong/Em Phải Quên Anh.mp3",
-            image: "Assets/image/VL2.jpg",
+            image: "./Assets/image/VL2.jpg",
             isFavorite: false
         },
         {
             name: "Nếu Những Tiếc Nuối",
             singer: "Phạm Thanh Triều (Mikey)",
-            path: "Assets/ListSong/Nếu Những Tiếc Nuối.mp3",
-            image: "Assets/image/VL3.jpg",
+            path: "./Assets/ListSong/Nếu Những Tiếc Nuối.mp3",
+            image: "./Assets/image/VL3.jpg",
             isFavorite: false
         }, 
     {
             name: "Đóa phù dung cuối cùng",
             singer: "Phạm Thanh Triều (Mikey)",
-            path: "Assets/ListSong/ĐÓA PHÙ DUNG CUỐI CÙNG.mp3",
-            image: "Assets/image/VL4.jpg",
+            path: "./Assets/ListSong/ĐÓA PHÙ DUNG CUỐI CÙNG.mp3",
+            image: "./Assets/image/VL4.jpg",
             isFavorite: false
         },
         {
             name: "Tận Cùng Nỗi Nhớ",
             singer: "Phạm Thanh Triều (Mikey)",
-            path: "Assets/ListSong/Tận Cùng Nỗi Nhớ.mp3",
-            image: "Assets/image/VL5.jpg",
+            path: "./Assets/ListSong/Tận Cùng Nỗi Nhớ.mp3",
+            image: "./Assets/image/VL5.jpg",
             isFavorite: false
         },
         {
             name: "Yêu Em Hơn Mỗi Ngày",
             singer: "Phạm Thanh Triều (Mikey)",
-            path: "Assets/ListSong/Yêu Em Hơn Mỗi Ngày.mp3",
-            image: "Assets/image/VL6.jpg",
+            path: "./Assets/ListSong/Yêu Em Hơn Mỗi Ngày.mp3",
+            image: "./Assets/image/VL6.jpg",
             isFavorite: false
         },
         {
             name: " Khi Em Ngủ Say",
             singer: "Phạm Thanh Triều (Mikey)",
-            path: ".Assets/ListSong/Khi Em Ngủ Say.mp3",
-            image: "Assets/image/VL7.jpg",
+            path: "./Assets/ListSong/Khi Em Ngủ Say.mp3",
+            image: "./Assets/image/VL7.jpg",
             isFavorite: false
         },
         {
             name: "Người Ấy (The First Show)",
             singer: "Phạm Thanh Triều (Mikey)",
-            path: "Assets/ListSong/Người Ấy (The First Show).mp3",
-            image: "Assets/image/VL8.jpg",
+            path: "./Assets/ListSong/Người Ấy (The First Show).mp3",
+            image: "./Assets/image/VL8.jpg",
             isFavorite: false
         },
         {
             name: "Chúng Ta Rồi Sẽ Hạnh Phúc",
             singer: "Phạm Thanh Triều (Mikey)",
-            path: "Assets/ListSong/Chúng Ta Rồi Sẽ Hạnh Phúc.mp3",
-            image: "Assets/image/VL9.jpg",
+            path: "./Assets/ListSong/Chúng Ta Rồi Sẽ Hạnh Phúc.mp3",
+            image: "./Assets/image/VL9.jpg",
             isFavorite: false
         },
          {
             name: "Sao Em Vô Tình (H2O Remix)",
             singer: "Phạm Thanh Triều (Mikey)",
-            path: "Assets/ListSong/Sao Em Vô Tình (H2O Remix).mp3",
-            image: "Assets/image/TN1.jpg",
+            path: "./Assets/ListSong/Sao Em Vô Tình (H2O Remix).mp3",
+            image: "./Assets/image/TN1.jpg",
             isFavorite: false
         },
        
